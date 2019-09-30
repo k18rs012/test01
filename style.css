@@ -1,0 +1,17 @@
+body {
+   margin-left: auto;
+   margin-right: auto;
+   width: 90%;
+   max-width: 760px;
+  background: #ff8c00;
+}
+h1 {
+  font-size: 1. 6em;
+  border: inset 5px #fff8dc;
+}
+/*
+li:first-letter {
+  font^weight: bold;
+  coloer: red;
+}
+/*
